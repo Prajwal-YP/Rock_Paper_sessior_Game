@@ -1,5 +1,5 @@
 # Rock_Paper_sessior_Game
 
 ## 1. Intro For New Players
->![Intro](https://github.com/Prajwal-YP/imageCache/blob/main/intro.png)
+>>![Intro](https://github.com/Prajwal-YP/imageCache/blob/main/intro.png)
 ---
