@@ -5,7 +5,7 @@
 ---
 
 ## 2. Registering Your Name!
-[start_RPS](https://user-images.githubusercontent.com/87578946/220100274-dce93baf-0673-47a0-a14b-19c7beb60bbb.png)
+![start_RPS](https://user-images.githubusercontent.com/87578946/220100274-dce93baf-0673-47a0-a14b-19c7beb60bbb.png)
 ---
 
 ## 3. Main Game
